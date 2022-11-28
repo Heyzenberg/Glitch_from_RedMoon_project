@@ -60,7 +60,7 @@ btnOpenAudioPlayer.addEventListener('click', () => {
 //////////////////////////////////////////////////////////////////////////////////////
 
 const btnOpenGames = document.querySelector('.games');
-const gameMenu = document.querySelector('.game-menu');
+const gameMenu = document.querySelector('.web-menu');
 
 btnOpenGames.addEventListener('click', () => {
     gameMenu.classList.add('active');
