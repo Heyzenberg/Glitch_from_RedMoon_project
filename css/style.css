@@ -1718,6 +1718,15 @@ body {
   font-size: 1.4rem;
   color: rgba(255, 255, 255, 0.8);
 }
+.main-block .version {
+  position: absolute;
+  bottom: 4%;
+  right: 4%;
+  font-family: "TextMeOne";
+  font-size: 1.4rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
 
 @-webkit-keyframes dance-btn {
   0% {
