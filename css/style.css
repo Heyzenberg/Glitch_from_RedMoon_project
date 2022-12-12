@@ -4,6 +4,7 @@
   border: 0;
   outline: none;
   -webkit-tap-highlight-color: transparent;
+  user-select: none;
 }
 
 *,
